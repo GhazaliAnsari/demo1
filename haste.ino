@@ -6,7 +6,7 @@
 #define s2 8
 #define s3 10
 #define s4 12
-int a,b,c,d;
+int a,b,c,e;
 
 char lr;
 void setup() {
